@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align='center'>
   <img src="https://count.getloli.com/@:Labmem-00?theme=booru-lewd" alt=":Labmem-00" />
 </div>
