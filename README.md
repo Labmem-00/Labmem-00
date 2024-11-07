@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://count.getloli.com/@:Labmem-00?theme=nixietube-1" alt=":Labmem-00" />
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
