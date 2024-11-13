@@ -25,9 +25,5 @@
     <img src="https://img.shields.io/badge/NestJS-red">
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Labmem-00" alt="Top Langs" />
-</p>
- 
 
 
